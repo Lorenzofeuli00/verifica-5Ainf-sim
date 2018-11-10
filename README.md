@@ -7,10 +7,10 @@ Nella cartella `design` trovate il file "wireframe.png" con la porzione di pagin
 ## Esecuzione del compito
 Eseguite le seguenti operazioni, dopo aver completato ognuna di esse mettete una spunta sulla relativa casella.
 
-- [ ] accedete con il vostro account personale (**non sbagliate password!**)
-- [ ] fate il fork di questo progetto
-- [ ] copiate l'URL relativo al **vostro** progetto
-- [ ] aprite git-bash su Windows
+- [X] accedete con il vostro account personale (**non sbagliate password!**)
+- [X] fate il fork di questo progetto
+- [X] copiate l'URL relativo al **vostro** progetto
+- [X] aprite git-bash su Windows
 - [ ] navigate nella cartella `~/Documents/<classe>/<cognome>` con il comando `cd` (change directory), creando la cartella se necessario
 - [ ] scaricate il progetto con `git clone <URL-vostro-repo>`
 - [ ] navigate nella cartella appena creata
